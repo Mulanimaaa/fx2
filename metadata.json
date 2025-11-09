@@ -1,0 +1,5 @@
+{
+  "name": "Asistente de Cámara Sony FX2",
+  "description": "Un asistente con IA para ayudarte a dominar tu cámara Sony FX2. Haz preguntas sobre la configuración, analiza la pantalla de tu cámara con una foto u obtén consejos de expertos para escenarios de grabación complejos.",
+  "requestFramePermissions": []
+}
